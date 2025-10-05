@@ -81,3 +81,10 @@ npm install
 
 # Start the development server
 npm run dev
+
+Then open http://localhost:5173 in your browser.
+
+### 🚀 Credits
+
+This project was developed by following the tutorial provided by
+JavaScript Mastery :- https://www.youtube.com/@javascriptmastery
